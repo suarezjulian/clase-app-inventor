@@ -35,8 +35,10 @@ Para este primer proyecto necesitamos descargar algunos archivos
 ![Página AppInventor](Paleta.PNG?raw=True)
 
 9. Nuestra aplicación tendrá un botón que mostrará la imagen del gato que descargamos al principio, para hacer esto vamos a tener que ejecutar los siguientes pasos:
-  9. Desde la paleta de Interfaz de Usuario, arrastra y suelta un componente de Boton a la pantalla 1 (screen1) (1)
-  9. Para que el boton tenga una imagen de un gato, en el panel de Propiedades, en la sección de Imagen, hagamos click en el texto que dice "Ninguno" (2) y hagamos click subir archivo . Hagamos click en "Examinar" y luego escojamos el archivo gato.png que habiamos descargado anteriormente (3). Hagamos en el archivo gato.png, luego en abrir y luego "OK"
+
+  a. Desde la paleta de Interfaz de Usuario, arrastra y suelta un componente de Boton a la pantalla 1 (screen1) (1)
+  
+  b. Para que el boton tenga una imagen de un gato, en el panel de Propiedades, en la sección de Imagen, hagamos click en el texto que dice "Ninguno" (2) y hagamos click subir archivo . Hagamos click en "Examinar" y luego escojamos el archivo gato.png que habiamos descargado anteriormente (3). Hagamos en el archivo gato.png, luego en abrir y luego "OK"
 
 ![Página AppInventor](boton.PNG?raw=True)
   
