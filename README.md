@@ -49,3 +49,8 @@ Para este primer proyecto necesitamos descargar algunos archivos
   b. Bajo el panel de Propiedades cambia el texto a "Acaricia el Gato!" (2) , cambia también el tamaño de la letra (3) el color de Fondo  (4) y el color de texto (5).
   
 ![Página AppInventor](acaricia_gato.png?raw=True)  
+
+11. Ahora vamos a añadir un sonido como se indica en la gráfica
+
+![Página AppInventor](miau.png?raw=True)  
+
