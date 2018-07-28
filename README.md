@@ -41,4 +41,11 @@ Para este primer proyecto necesitamos descargar algunos archivos
   b. Para que el boton tenga una imagen de un gato, en el panel de Propiedades, en la sección de Imagen, hagamos click en el texto que dice "Ninguno" (2) y hagamos click subir archivo . Hagamos click en "Examinar" y luego escojamos el archivo gato.png que habiamos descargado anteriormente (3). Hagamos en el archivo gato.png, luego en abrir y luego "OK"
 
 ![Página AppInventor](boton.PNG?raw=True)
+
+
+10. Ahora vamos a añadir un mensaje 
+
+  a. Desde la paleta de Interfaz de Usuario, arrastra y suelta un componente de Etiqueta a la pantalla 1 (screen1) (1), ubicandola debajo de la foto del gato. Aparecerá en la lista de componentes como Label1.
+  b. Bajo el panel de Propiedades cambia el texto a "Acaricia el Gato!" (2) , cambia también el tamaño de la letra (3) el color de Fondo  (4) y el color de texto (5).
   
+![Página AppInventor](acaricia_gato.png?raw=True)  
